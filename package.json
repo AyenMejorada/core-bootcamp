@@ -1,0 +1,19 @@
+{
+  "name": "my-core",
+  "version": "1.0.0",
+  "description": "This starter kit contains the pre-requsite account and software necessary for the Core Connect Bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyenMejorada/core-bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyenMejorada/core-bootcamp/issues"
+  },
+  "homepage": "https://github.com/AyenMejorada/core-bootcamp#readme"
+}
